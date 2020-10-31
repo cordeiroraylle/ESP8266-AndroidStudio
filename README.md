@@ -1,6 +1,6 @@
 # ESP8266 + Firebase + Android Studio
 
-##Bibliotecas para a ESP:
+## Bibliotecas para a ESP:
 
 Adicionar no gerenciador de placas esp8266 by ESP8266 Community:
 
