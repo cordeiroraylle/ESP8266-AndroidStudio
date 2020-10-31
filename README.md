@@ -18,6 +18,3 @@ Vídeo sobre a ESP8266 + Firebase
 
 https://youtu.be/BE2lPJ43t4k
 
-Firebase + Android Studio
-
-https://github.com/cordeiroraylle/PDM/tree/master/Projeto%20Android%20-%20Firebase
